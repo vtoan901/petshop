@@ -1,0 +1,76 @@
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content" >
+
+
+
+	<RelativeLayout android:id="@+id/page_dex__2_ek1"
+		android:layout_marginTop="0dp"
+		android:layout_marginStart="0dp"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		>
+
+
+		<RelativeLayout android:id="@+id/__005"
+			android:layout_marginTop="31dp"
+			android:layout_marginStart="26dp"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			>
+
+			<View   android:id="@+id/rectangle"
+				android:background="@drawable/rectangle_shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="178dp"
+				android:layout_height="200dp" />
+
+			<TextView
+				android:id="@+id/txtTen"
+				android:layout_width="157dp"
+				android:layout_height="25.8dp"
+				android:layout_gravity="center_horizontal|center"
+				android:layout_marginLeft="15dp"
+				android:layout_marginTop="146dp"
+				android:fontFamily="@font/alata"
+				android:gravity="center"
+				android:text="Alatka"
+				android:textSize="18sp" />
+
+			<TextView
+				android:id="@+id/txtGia"
+				android:layout_width="157dp"
+				android:layout_height="25.8dp"
+				android:layout_gravity="center_horizontal|center"
+				android:layout_marginLeft="15dp"
+				android:layout_marginTop="166dp"
+				android:fontFamily="@font/alata"
+				android:gravity="center"
+				android:text="100$"
+				android:textColor="@color/colorAccent"
+				android:textSize="18sp" />
+
+			<ImageView android:id="@+id/imgHinh"
+				 android:layout_marginStart="36dp"
+				android:layout_marginTop="34dp"
+				android:layout_width="107.79dp"
+				android:layout_height="107.89dp" />
+
+			<TextView
+				android:id="@+id/txtId"
+				android:layout_width="50dp"
+				android:layout_height="25.06dp"
+				android:layout_gravity="center_horizontal|center"
+				android:layout_marginLeft="10dp"
+				android:layout_marginTop="11dp"
+				android:fontFamily="@font/alata"
+				android:gravity="center"
+				android:text="#001"
+				android:textSize="14sp" />
+
+		</RelativeLayout>
+
+	</RelativeLayout>
+</RelativeLayout>

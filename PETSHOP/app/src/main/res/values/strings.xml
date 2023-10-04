@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- login strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="__ng_nh_p_string">ng Nhp</string>
+	<string name="forgot_password_string">Forgot password</string>
+	<string name="time_ek1_string">9:27</string>
+	<string name="create_an_account_string">Create an account</string>
+	<string name="sign_in_using_string">Sign in using</string>
+	<string name="or_string">OR</string>
+	<string name="sign_up_ek3_string">Sign up</string>
+	<string name="back_string">Back</string>
+	<string name="sign_up_ek4_string">Sign Up</string>
+</resources>
